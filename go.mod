@@ -1,3 +1,3 @@
-module github.com/AlekseyAytov/utils
+module github.com/AlekseyAytov/utils/v2
 
 go 1.23.4
